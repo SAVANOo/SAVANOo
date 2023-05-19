@@ -1,7 +1,7 @@
-## 🤙 Prazer, Sávio Mendes!
-#### Olá me chamo Sávio Mendes e atualmente estou cursando Ciência da Computação no IFMA, também sou técnico em informática pelo IFMA, participo hoje da TECH JR, uma empresa júnior, onde participo de desenvolvimento de projetos web.
-#### Sou um amante de programação que busca constantemente a evolução e cada vez mais conhecimento, sou bem amigável e gosto de transmitir os meus conhecimentos através de comunidades de programação priorizando o trabalho em equipe.
-#### No meu tempo livre gosto de escutar música e até mesmo compor, além de que gosto também de assistir filmes ou séries.
+## 🤙 Pleasure, Savio Mendes!
+#### Hello, my name is Sávio Mendes and I am currently studying Computer Science at IFMA, I am also a computer technician at IFMA, today I participate in TECH JR, a junior company, where I participate in the development of web projects.
+#### I'm a programming lover who is constantly looking for evolution and more and more knowledge, I'm very friendly and I like to transmit my knowledge through programming communities prioritizing teamwork.
+#### In my free time I like to listen to music and even compose, and I also like to watch movies or series.
 </br>
 
 <table>
@@ -15,13 +15,13 @@
   </tr>
 </table>
 
-## Contacte-me!
+## Contact me!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A1vio-mendes/)
 [![Gmail Badge](https://img.shields.io/badge/-savano947@gmail.com-6633cc?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:savano947@gmail.com)](mailto:savano947@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_savio_mendes_/)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,4 +30,4 @@
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-#### 💡 "Há uma forma de fazer isso melhor - encontre-a"- Thomas Edison
+#### 💡 “There's a way to do it better - find it.” - Thomas Edison
